@@ -8,7 +8,7 @@
 // Output: ["((()))","(()())","(())()","()(())","()()()"]
 
 
-
+// TC-  O(4ⁿ / √n)
 class Solution {
     public List<String> generateParenthesis(int n) {
         
